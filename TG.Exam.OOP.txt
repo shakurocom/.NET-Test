@@ -1,0 +1,14 @@
+Goal of this test:
+To test your familiarity with Object Oriented Programming
+
+What to do:
+This application contains several entities that being loaded into dynamic list,
+once the entities are loaded, the application will try to run ToString2 method which does not exist
+The problem is that list is for dynamic objects and entities do not implement ToString2 method, so exception is thrown.
+In order to prevent this exception, please fix the application.
+Note that the main goal of the test is to test your OOP capabilities.
+
+What's in the project:
+Console application which contains 2 classes:
+1. Program - main execution class
+2. DTOs - Class which contains the types

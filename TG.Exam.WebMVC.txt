@@ -1,0 +1,17 @@
+Goal of this test:
+	To test your familiarity with MVC and AJAX
+
+What to do:
+	1. Build a simple view of a grid with 4 columns in the header:
+		A. First name
+		B. Last name
+		C. Age
+		D. Fetch method (Sync / Async)
+	2. Once the page loaded the table should contain data from UserModels.GetAll() method,
+		A. The data should be loaded via the relevant controller with return View method.
+		B. The 4th column's data should be Sync for all users.
+	3. Create a button which will invoke an async operation (JQuery Ajax call) to WebAPI controller,
+		A. This WebAPI controller should be created and it should return all the users from UserModels.GetAll() method.
+		B. The age field should be the original Age + 10
+		C. The 4th column's data should be Async for all users
+

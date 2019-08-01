@@ -1,0 +1,13 @@
+Goal of this test:
+To test your ability to see problems in code and the depth of architectural thinking
+
+What to do:
+You are involved in a new project. This is a web service that implements access to your database for some 3rd-party web application. You are asked you to analyze the following code fragment to identify as much more issues as you can and compose a list of issues in the following form: brief issue description - how to resolve.
+Example:
+	1. There is a division to zero issue. Need to apply check if input parameter is not zero.
+	2. …
+
+Write the results of yuor analysis as comments in code. Implement version of this fragment.
+
+What's in the project:
+	A WCF web service application which contains service contract definition and implementation, including data access logic (note that this task uses the same DB as the TG.Exam.SQL, so you can reuse it).

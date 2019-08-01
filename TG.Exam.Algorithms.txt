@@ -1,0 +1,8 @@
+Goal of this test:
+	To see your ability to analyse code and familiarity with basic algorithms
+
+What to do:
+	This project is a simple console application containing one class (Program) with two static methods (Foo and Bar), which do something. For both methods you need to:
+		1) Find out what this method does.
+		2) Describe the advantages/disadvantages of such implementation as a comment in code.
+		3) Implement better approach (if you see it).

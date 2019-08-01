@@ -1,0 +1,5 @@
+Goal of this test:
+	To test your familiarity with writing SQL statements
+
+What to do:
+	This application is a WinForm application, its UI is ready and connected to the DAL, the only thing you need to do is just implement the DAL functionality.

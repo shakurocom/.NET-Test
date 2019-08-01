@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TG.Exam.OOP", "TG.Exam.OOP\TG.Exam.OOP.csproj", "{8BF42E64-0AE6-4362-B26A-F124FF5B461C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TG.Exam.SQL", "TG.Exam.SQL\TG.Exam.SQL.csproj", "{9104C83E-7741-4D21-839C-250B23877417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TG.Exam.WebMVC", "TG.Exam.WebMVC\TG.Exam.WebMVC.csproj", "{7A0BFFC4-47C7-4A8F-9EBC-D08FCFB3CBB9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Instructions", "Instructions", "{712948C1-8E49-4F38-AAA1-DA18824BF13D}"
+	ProjectSection(SolutionItems) = preProject
+		TG.Exam.Algorithms.txt = TG.Exam.Algorithms.txt
+		TG.Exam.LINQ.txt = TG.Exam.LINQ.txt
+		TG.Exam.MT.txt = TG.Exam.MT.txt
+		TG.Exam.OOP.txt = TG.Exam.OOP.txt
+		TG.Exam.Refactoring.txt = TG.Exam.Refactoring.txt
+		TG.Exam.SQL.sql = TG.Exam.SQL.sql
+		TG.Exam.SQL.txt = TG.Exam.SQL.txt
+		TG.Exam.WebMVC.txt = TG.Exam.WebMVC.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TG.Exam.Refactoring", "TG.Exam.Refactoring\TG.Exam.Refactoring.csproj", "{D920ADC4-2CD5-40B0-9BAA-96CA5F153D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TG.Exam.Algorithms", "TG.Exam.Algorithms\TG.Exam.Algorithms.csproj", "{F9F018F7-31BF-46E2-ACDD-8C6F500FEC58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF42E64-0AE6-4362-B26A-F124FF5B461C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF42E64-0AE6-4362-B26A-F124FF5B461C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF42E64-0AE6-4362-B26A-F124FF5B461C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF42E64-0AE6-4362-B26A-F124FF5B461C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9104C83E-7741-4D21-839C-250B23877417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9104C83E-7741-4D21-839C-250B23877417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9104C83E-7741-4D21-839C-250B23877417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9104C83E-7741-4D21-839C-250B23877417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0BFFC4-47C7-4A8F-9EBC-D08FCFB3CBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0BFFC4-47C7-4A8F-9EBC-D08FCFB3CBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0BFFC4-47C7-4A8F-9EBC-D08FCFB3CBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0BFFC4-47C7-4A8F-9EBC-D08FCFB3CBB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D920ADC4-2CD5-40B0-9BAA-96CA5F153D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D920ADC4-2CD5-40B0-9BAA-96CA5F153D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D920ADC4-2CD5-40B0-9BAA-96CA5F153D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D920ADC4-2CD5-40B0-9BAA-96CA5F153D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F018F7-31BF-46E2-ACDD-8C6F500FEC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F018F7-31BF-46E2-ACDD-8C6F500FEC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F018F7-31BF-46E2-ACDD-8C6F500FEC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F018F7-31BF-46E2-ACDD-8C6F500FEC58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12DC27B7-8F39-46F9-A8C7-E76A8F06F737}
+	EndGlobalSection
+EndGlobal
