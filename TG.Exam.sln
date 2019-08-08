@@ -12,8 +12,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Instructions", "Instructions", "{712948C1-8E49-4F38-AAA1-DA18824BF13D}"
 	ProjectSection(SolutionItems) = preProject
 		TG.Exam.Algorithms.txt = TG.Exam.Algorithms.txt
-		TG.Exam.LINQ.txt = TG.Exam.LINQ.txt
-		TG.Exam.MT.txt = TG.Exam.MT.txt
 		TG.Exam.OOP.txt = TG.Exam.OOP.txt
 		TG.Exam.Refactoring.txt = TG.Exam.Refactoring.txt
 		TG.Exam.SQL.sql = TG.Exam.SQL.sql
